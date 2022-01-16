@@ -1,7 +1,7 @@
 const Discord-require("discord.js");
 
 const client=new Discord.Client();
-clien.login("OTI5NzI5NzcyNDA0MjMyMjQy.YdrkUw.clL3gbvZ7eDVpRLhXtcdOa4k1w0")
+clien.login("OTI5NzI5NzcyNDA0MjMyMjQy.YdrkUw.dQJRNpUe5XX3hv2sJbpPoyiNkdo")
 client.on("message",message=>{
   console.log("gelem mesaj"+message.content)
   
